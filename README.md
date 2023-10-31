@@ -27,7 +27,7 @@ samples, guidance on mobile development, and a full API reference.
 - **Balance Display**: Created a visually appealing animation to display the user's balance.
 
 ## Final Output
-| ![Image 1](assets/images/image1.jpg) | ![Image 2](assets/images/image2.jpg) | ![Image 3](assets/images/image3.jpg) | ![Image 4](assets/images/image4.jpg) | ![Image 5](assets/images/image5.jpg) | 
+| ![Image 1](assets/images/image1.jpg) | ![Image 2](assets/images/image2.jpg) | ![Image 3](assets/images/image3.jpg) | ![Image 4](assets/images/image4.jpg) | ![Image 5](assets/images/image5.jpg) ||
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
 
 
