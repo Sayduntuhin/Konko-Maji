@@ -14,3 +14,24 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+
+## Features
+
+- **Custom UI Elements**: Recreated bKash's user interface with attention to detail.
+- **Asset Challenges**: Overcame difficulties in finding suitable assets, utilizing open-source resources, and creating custom assets.
+- **Drawer and Navigation Bar Customization**: Customized the app's drawer and navigation bar to match bKash's layout.
+- **Custom Button Animation**: Implemented complex animations for custom buttons, ensuring a smooth user experience.
+- **Balance Display**: Created a visually appealing animation to display the user's balance.
+
+## Final Output
+| ![Image 1](assets/images/image1.jpg) | ![Image 2](aassets/images/image2.jpgg) | ![Image 3](assets/images/image3.jpgjpg) | ![Image 4](assets/images/image4.jpg) | ![Image 5](assets/images/image5.jpg) | 
+|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
+
+
+
+
+[Watch Full Demo on YouTube]()
+
